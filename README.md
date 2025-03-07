@@ -48,7 +48,7 @@ Sugestões e contribuições são bem-vindas! Se você tiver alguma ideia para m
 
 O gerador de QR Code foi desenvolvido por Ana Paula. ✨ Se você tiver alguma dúvida ou sugestão, entre em contato. Qualquer feedback para melhorar a documentação será apreciado, obrigada! 🙏
 
-**🌟 Se você gostou, não se esqueça de dar uma estrela no repositório! Isso nos ajuda a alcançar mais entusiastas e colaboradores.**
+**🌟 Se você gostou, não se esqueça de dar uma estrela no repositório! Isso ajuda a alcançar mais entusiastas e colaboradores.**
 
 
 ## 📬 Contato
